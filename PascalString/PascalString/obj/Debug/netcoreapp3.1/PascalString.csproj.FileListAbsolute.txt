@@ -1,0 +1,12 @@
+/Users/iqbalmorshed/Projects/PascalString/PascalString/bin/Debug/netcoreapp3.1/PascalString.deps.json
+/Users/iqbalmorshed/Projects/PascalString/PascalString/bin/Debug/netcoreapp3.1/PascalString.runtimeconfig.json
+/Users/iqbalmorshed/Projects/PascalString/PascalString/bin/Debug/netcoreapp3.1/PascalString.runtimeconfig.dev.json
+/Users/iqbalmorshed/Projects/PascalString/PascalString/bin/Debug/netcoreapp3.1/PascalString.dll
+/Users/iqbalmorshed/Projects/PascalString/PascalString/bin/Debug/netcoreapp3.1/PascalString.pdb
+/Users/iqbalmorshed/Projects/PascalString/PascalString/obj/Debug/netcoreapp3.1/PascalString.csprojAssemblyReference.cache
+/Users/iqbalmorshed/Projects/PascalString/PascalString/obj/Debug/netcoreapp3.1/PascalString.AssemblyInfoInputs.cache
+/Users/iqbalmorshed/Projects/PascalString/PascalString/obj/Debug/netcoreapp3.1/PascalString.AssemblyInfo.cs
+/Users/iqbalmorshed/Projects/PascalString/PascalString/obj/Debug/netcoreapp3.1/PascalString.csproj.CoreCompileInputs.cache
+/Users/iqbalmorshed/Projects/PascalString/PascalString/obj/Debug/netcoreapp3.1/PascalString.dll
+/Users/iqbalmorshed/Projects/PascalString/PascalString/obj/Debug/netcoreapp3.1/PascalString.pdb
+/Users/iqbalmorshed/Projects/PascalString/PascalString/obj/Debug/netcoreapp3.1/PascalString.genruntimeconfig.cache

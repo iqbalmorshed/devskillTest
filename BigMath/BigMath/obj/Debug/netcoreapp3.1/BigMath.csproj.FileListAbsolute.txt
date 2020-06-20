@@ -1,0 +1,12 @@
+/Users/iqbalmorshed/Projects/BigMath/BigMath/bin/Debug/netcoreapp3.1/BigMath.deps.json
+/Users/iqbalmorshed/Projects/BigMath/BigMath/bin/Debug/netcoreapp3.1/BigMath.runtimeconfig.json
+/Users/iqbalmorshed/Projects/BigMath/BigMath/bin/Debug/netcoreapp3.1/BigMath.runtimeconfig.dev.json
+/Users/iqbalmorshed/Projects/BigMath/BigMath/bin/Debug/netcoreapp3.1/BigMath.dll
+/Users/iqbalmorshed/Projects/BigMath/BigMath/bin/Debug/netcoreapp3.1/BigMath.pdb
+/Users/iqbalmorshed/Projects/BigMath/BigMath/obj/Debug/netcoreapp3.1/BigMath.csprojAssemblyReference.cache
+/Users/iqbalmorshed/Projects/BigMath/BigMath/obj/Debug/netcoreapp3.1/BigMath.AssemblyInfoInputs.cache
+/Users/iqbalmorshed/Projects/BigMath/BigMath/obj/Debug/netcoreapp3.1/BigMath.AssemblyInfo.cs
+/Users/iqbalmorshed/Projects/BigMath/BigMath/obj/Debug/netcoreapp3.1/BigMath.csproj.CoreCompileInputs.cache
+/Users/iqbalmorshed/Projects/BigMath/BigMath/obj/Debug/netcoreapp3.1/BigMath.dll
+/Users/iqbalmorshed/Projects/BigMath/BigMath/obj/Debug/netcoreapp3.1/BigMath.pdb
+/Users/iqbalmorshed/Projects/BigMath/BigMath/obj/Debug/netcoreapp3.1/BigMath.genruntimeconfig.cache

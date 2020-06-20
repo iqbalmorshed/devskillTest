@@ -1,0 +1,12 @@
+/Users/iqbalmorshed/Projects/TimeConverter/TimeConverter/bin/Debug/netcoreapp3.1/TimeConverter.deps.json
+/Users/iqbalmorshed/Projects/TimeConverter/TimeConverter/bin/Debug/netcoreapp3.1/TimeConverter.runtimeconfig.json
+/Users/iqbalmorshed/Projects/TimeConverter/TimeConverter/bin/Debug/netcoreapp3.1/TimeConverter.runtimeconfig.dev.json
+/Users/iqbalmorshed/Projects/TimeConverter/TimeConverter/bin/Debug/netcoreapp3.1/TimeConverter.dll
+/Users/iqbalmorshed/Projects/TimeConverter/TimeConverter/bin/Debug/netcoreapp3.1/TimeConverter.pdb
+/Users/iqbalmorshed/Projects/TimeConverter/TimeConverter/obj/Debug/netcoreapp3.1/TimeConverter.csprojAssemblyReference.cache
+/Users/iqbalmorshed/Projects/TimeConverter/TimeConverter/obj/Debug/netcoreapp3.1/TimeConverter.AssemblyInfoInputs.cache
+/Users/iqbalmorshed/Projects/TimeConverter/TimeConverter/obj/Debug/netcoreapp3.1/TimeConverter.AssemblyInfo.cs
+/Users/iqbalmorshed/Projects/TimeConverter/TimeConverter/obj/Debug/netcoreapp3.1/TimeConverter.csproj.CoreCompileInputs.cache
+/Users/iqbalmorshed/Projects/TimeConverter/TimeConverter/obj/Debug/netcoreapp3.1/TimeConverter.dll
+/Users/iqbalmorshed/Projects/TimeConverter/TimeConverter/obj/Debug/netcoreapp3.1/TimeConverter.pdb
+/Users/iqbalmorshed/Projects/TimeConverter/TimeConverter/obj/Debug/netcoreapp3.1/TimeConverter.genruntimeconfig.cache
